@@ -1,9 +1,9 @@
-import BasicForm from './components/BasicForm';
+import FormikForm from './components/FormikForm';
 
 function App() {
   return (
     <div className="app">
-      <BasicForm />
+      <FormikForm />
     </div>
   );
 }
